@@ -1,0 +1,2 @@
+# Notebook_Jupyter_Mineria_Datos_Supervisado_Clasificacion
+Laboratorio final Mineria de Datos IEI097

@@ -66,11 +66,13 @@ Se entrenaron cuatro modelos bajo el experimento **`IEI097-G00`**, utilizando po
 ## 5. Evidencias de Trazabilidad en MLflow (`IEI097-G00`)
 
 ### 5.1 Comparativa General de Ejecuciones (`Runs`)
+![Lista de ejecuciones en MLflow](evidencias-mlflow/01_lista_runs.png)
 
 ### 5.2 Análisis Visual de Hiperparámetros y Desempeño (`Parallel Coordinates`)
-
+![Comparación gráfica de modelos en MLflow](evidencias-mlflow/02_comparacion_runs.png)
 
 ### 5.3 Detalle del Modelo Seleccionado (`02_Regresion_Logistica_Multinomial`)
+![Detalle del modelo ganador en MLflow](evidencias-mlflow/03_detalle_runs.png)
 
 
 ---
